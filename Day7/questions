@@ -1,0 +1,21 @@
+Java String and StringBuilder concepts practice questions
+
+1. A user enters their name with extra spaces at the beginning and end. Create a method to clean and return the name.
+
+2. A website stores emails in different letter cases. Create a method to convert every email. to lowercase before saving.
+
+3. A sentence is entered by the user. Create a method to count the number of characters excluding spaces.
+
+4. A company receives phone numbers with spaces between digits. Create a method to remove all spaces and return the cleaned number.
+
+5. A student enters their full name. Create a method to extract and return only the first. name.
+
+6. A file name contains an extension (e.g., report.pdf), Create a method to extract only the file name without the extension.
+
+7. A sentence is entered by the user. Create a method to count how many times a particular character appears.
+
+8. A product code may contain hyphens (AB-123-XY). Create a method to remove all hyphens and return the cleaned code.
+
+9. A paragraph contains mixed uppercase and lowercase letters. Create methods to count uppercase letters and lowercase letters separately.
+
+10. A user enters a word. Create a method to check whether it is a palindrome using StringBuilder
